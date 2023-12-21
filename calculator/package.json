@@ -1,0 +1,16 @@
+{
+  "name": "alex-lepin-math-calculator",
+  "version": "1.0.3",
+  "description": "Simple math calculator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "calculator",
+    "math"
+  ],
+  "repository": "https://github.com/AlexLep1n/NodeJS",
+  "author": "Alex Lepin",
+  "license": "ISC"
+}
