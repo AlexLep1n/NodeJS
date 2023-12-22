@@ -1,23 +1,23 @@
 [
   {
     "id": 1,
-    "firstName": "Alex",
+    "firstName": "Shura",
     "surname": "Lepin",
     "age": 26,
     "city": "Saint-Petersburg"
   },
   {
     "id": 2,
-    "firstName": "Cccc",
+    "firstName": "John",
     "surname": "Ivanov",
-    "age": 22,
+    "age": 33,
     "city": "Moscow"
   },
   {
     "id": 3,
-    "firstName": "John",
-    "surname": "Ivanov",
+    "firstName": "Sveta",
+    "surname": "Lepina",
     "age": 22,
-    "city": "Moscow"
+    "city": "Saint-Petersburg"
   }
 ]
